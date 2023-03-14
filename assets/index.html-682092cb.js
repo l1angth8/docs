@@ -1,0 +1,1 @@
+import{_ as t,W as r,X as a,Y as e,Z as c}from"./framework-3e0345fd.js";const d={},n=e("h2",{id:"rdr2-title",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#rdr2-title","aria-hidden":"true"},"#"),c(" rdr2 title")],-1),s=[n];function o(i,_){return r(),a("div",null,s)}const h=t(d,[["render",o],["__file","index.html.vue"]]);export{h as default};

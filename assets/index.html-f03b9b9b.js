@@ -1,0 +1,1 @@
+import{_ as t,W as s,X as a,Y as e,Z as n}from"./framework-3e0345fd.js";const c={},o=e("h2",{id:"test-标题",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#test-标题","aria-hidden":"true"},"#"),n(" test 标题")],-1),r=e("p",null,"2123正文",-1),_=[o,r];function d(i,l){return s(),a("div",null,_)}const f=t(c,[["render",d],["__file","index.html.vue"]]);export{f as default};

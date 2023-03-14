@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-28a4aaa2","path":"/gta5/2take1/","title":"2take1","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"2take1","order":1,"author":"l1angth6"},"headers":[],"git":{},"readingTime":{"minutes":0.04,"words":12},"filePathRelative":"gta5/2take1/README.md"}');export{a as data};

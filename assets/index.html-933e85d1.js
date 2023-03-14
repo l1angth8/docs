@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-15389f64","path":"/rdr2/","title":"大镖客2教程","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"大镖客2教程","order":2},"headers":[{"level":2,"title":"rdr2 title","slug":"rdr2-title","link":"#rdr2-title","children":[]}],"git":{},"readingTime":{"minutes":0.05,"words":14},"filePathRelative":"rdr2/README.md"}');export{t as data};

@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as n,Y as _}from"./framework-3e0345fd.js";const c={},o=_("p",null,"2take1简介",-1),s=[o];function a(r,l){return t(),n("div",null,s)}const i=e(c,[["render",a],["__file","index.html.vue"]]);export{i as default};

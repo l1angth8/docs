@@ -1,0 +1,1 @@
+import{_ as e,W as c,X as o,Y as t}from"./framework-3e0345fd.js";const _={},s=t("p",null,"6 cuowu",-1),n=[s];function r(u,a){return c(),o("div",null,n)}const d=e(_,[["render",r],["__file","cuowu.html.vue"]]);export{d as default};

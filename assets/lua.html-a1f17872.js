@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as _,Y as c}from"./framework-3e0345fd.js";const o={},s=c("p",null,"5 lua",-1),a=[s];function l(n,r){return t(),_("div",null,a)}const d=e(o,[["render",l],["__file","lua.html.vue"]]);export{d as default};
